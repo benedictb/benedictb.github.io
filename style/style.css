@@ -7,5 +7,6 @@
     top: 50%;
 }
 .body {
-    background: white url("./style/lit.png") repeat top right;
+    background-image: url("./style/lit.png");
+    background-repeat: repeat-y;
 }

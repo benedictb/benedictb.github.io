@@ -7,6 +7,6 @@
     top: 50%;
 }
 .body {
-    background-image: url("./style/lit.png");
+    background-image: url("lit.png");
     background-repeat: repeat-y;
 }

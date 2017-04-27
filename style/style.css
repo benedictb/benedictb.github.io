@@ -1,0 +1,11 @@
+.wrapper {
+    text-align: center;
+}
+
+.button {
+    position: absolute;
+    top: 50%;
+}
+.body {
+    background: white url("./style/lit.png") repeat top right;
+}
